@@ -1,3 +1,3 @@
 # Demo
 
-just for learning not anything else!
+just for learning not anything else.
